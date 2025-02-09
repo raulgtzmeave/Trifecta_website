@@ -1,0 +1,9 @@
+---
+title: "Contacto"
+---
+
+📱 **Teléfono**: [123-456-7890](tel:1234567890)
+
+💬 **WhatsApp**: [Enviar mensaje](https://wa.me/1234567890)
+
+📧 **Correo Electrónico**: [tuemail@example.com](mailto:tuemail@example.com)
