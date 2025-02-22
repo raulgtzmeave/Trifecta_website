@@ -1,22 +1,36 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "Trifecta"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - href: Contacto.qmd
-        text: Contacto
-
+      - text: "Home"
+        href: index.qmd
+      - text: "Services"
+        menu:
+          - text: "Supervision & Compliance"
+            href: services/supervision.qmd
+          - text: "Government Consulting"
+            href: services/consulting.qmd
+          - text: "Research & Analysis"
+            href: services/research.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:  # Aligned with `left:`
+      - text: "English"
+        id: "lang-en"
+        href: "#"
+      - text: "Español"
+        id: "lang-es"
+        href: "#"
+     
 format:
   html:
-    theme: cosmo
     css: styles.css
-    toc: true
+    include-after-body: language-toggle.js
 
-editor: visual
+
+    
+    
+
 

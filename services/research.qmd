@@ -1,0 +1,27 @@
+---
+title: "Research & Analysis"
+---
+
+<div class="lang-en">
+# **Data-Driven Insights for Impactful Decisions**
+We conduct high-quality research and analysis to help organizations and governments make informed decisions.
+
+## **Our Capabilities**
+- **Market & Economic Research** – We provide in-depth studies on industry trends and economic impacts.  
+- **Impact Evaluation & Data Analytics** – We analyze policies, programs, and investments using advanced data science techniques.  
+- **Forecasting & Strategic Modeling** – We develop predictive models to anticipate future challenges and opportunities.
+
+[Back to Services](../services.qmd)
+</div>
+
+<div class="lang-es" style="display: none;">
+# **Investigación Basada en Datos para Decisiones Estratégicas**
+Realizamos investigaciones y análisis de alta calidad para ayudar a organizaciones y gobiernos a tomar decisiones informadas.
+
+## **Nuestras Capacidades**
+- **Investigación de Mercado y Economía** – Proporcionamos estudios detallados sobre tendencias industriales e impactos económicos.  
+- **Evaluación de Impacto y Análisis de Datos** – Analizamos políticas, programas e inversiones con técnicas avanzadas de ciencia de datos.  
+- **Pronósticos y Modelos Estratégicos** – Desarrollamos modelos predictivos para anticipar desafíos y oportunidades futuras.
+
+[Volver a Servicios](../services.qmd)
+</div>

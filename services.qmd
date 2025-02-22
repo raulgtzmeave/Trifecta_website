@@ -1,0 +1,37 @@
+---
+title: "Our Services"
+---
+
+<div class="lang-en">
+# **Our Expertise**
+We provide top-tier services across three domains:
+
+### **Supervision, Inspection & Compliance**
+We help businesses ensure product quality, supplier reliability, and regulatory compliance in global trade.  
+🔗 [Learn More](services/supervision.qmd)
+
+### **Government Consulting**
+We assist governments in policy development, institutional reform, and strategic planning.  
+🔗 [Learn More](services/consulting.qmd)
+
+### **Research & Analysis**
+We provide advanced data analytics, impact evaluations, and market research for organizations and policymakers.  
+🔗 [Learn More](services/research.qmd)
+</div>
+
+<div class="lang-es" style="display: none;">
+# **Nuestros Servicios**
+Brindamos servicios de alta calidad en tres áreas:
+
+### **Supervisión, Inspección y Cumplimiento**
+Ayudamos a las empresas a garantizar la calidad de sus productos, la confiabilidad de sus proveedores y el cumplimiento de normativas en el comercio global.  
+🔗 [Más Información](services/supervision.qmd)
+
+### **Consultoría para Gobiernos**
+Asesoramos a los gobiernos en el desarrollo de políticas, la reforma institucional y la planificación estratégica.  
+🔗 [Más Información](services/consulting.qmd)
+
+### **Investigación y Análisis**
+Ofrecemos análisis de datos avanzados, evaluaciones de impacto e investigación de mercados para organizaciones y responsables de políticas.  
+🔗 [Más Información](services/research.qmd)
+</div>

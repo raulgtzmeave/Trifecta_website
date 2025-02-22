@@ -7,5 +7,47 @@
   },
   "Contacto.qmd": {
     "Contacto.html": "4376c02b"
+  },
+  "contact.qmd": {
+    "contact.html": "6d4dca0e"
+  },
+  "services.qmd": {
+    "services.html": "129c7b99"
+  },
+  "services:supervision.qmd": {
+    "services:supervision.html": "e7b4d036"
+  },
+  "services:research.qmd": {
+    "services:research.html": "544d6a54"
+  },
+  "services:consulting.qmd": {
+    "services:consulting.html": "71f6b804"
+  },
+  "services:/services:supervision.qmd": {
+    "services:supervision.html": "c92411fa"
+  },
+  "services:/services:research.qmd": {
+    "services:research.html": "181744b2"
+  },
+  "services:/services:consulting.qmd": {
+    "services:consulting.html": "db42470c"
+  },
+  "services/services:supervision.qmd": {
+    "services:supervision.html": "81b75a7d"
+  },
+  "services/services:research.qmd": {
+    "services:research.html": "93ba6b39"
+  },
+  "services/services:consulting.qmd": {
+    "services:consulting.html": "2282e902"
+  },
+  "services/supervision.qmd": {
+    "supervision.html": "0860996c"
+  },
+  "services/research.qmd": {
+    "research.html": "e09f00c3"
+  },
+  "services/consulting.qmd": {
+    "consulting.html": "0c2e5ca7"
   }
 }

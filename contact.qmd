@@ -1,0 +1,18 @@
+---
+title: "Contact Us"
+---
+
+📧 **Email:** [contact@trifecta.com]  
+📞 **Phone:** [+1 (123) 456-7890]  
+🌐 **Website:** [www.trifecta.com]  
+
+<form>
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name"><br>
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="email"><br>
+  <label for="message">Message:</label><br>
+  <textarea id="message" name="message"></textarea><br>
+  <input type="submit" value="Send Message">
+</form>
+

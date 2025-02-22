@@ -1,0 +1,28 @@
+---
+title: "Government Consulting"
+---
+
+<div class="lang-en">
+# **Strategic Advisory for Public Institutions**
+We support governments in designing effective policies and governance structures.
+
+## **Our Expertise**
+- **Policy Development & Implementation** – We help governments design evidence-based policies and improve governance effectiveness.  
+- **Regulatory Analysis & Compliance** – We assess laws and regulations to enhance institutional performance.  
+- **Institutional Strengthening & Public Sector Reform** – We work with governments to optimize efficiency and service delivery.
+
+[Back to Services](../services.qmd)
+</div>
+
+<div class="lang-es" style="display: none;">
+# **Asesoría Estratégica para Instituciones Públicas**
+Apoyamos a los gobiernos en el diseño de políticas efectivas y en la mejora de estructuras de gobernanza.
+
+## **Nuestra Experiencia**
+- **Desarrollo e Implementación de Políticas** – Ayudamos a los gobiernos a diseñar políticas basadas en evidencia y mejorar la efectividad gubernamental.  
+- **Análisis Regulatorio y Cumplimiento** – Evaluamos leyes y regulaciones para fortalecer el desempeño institucional.  
+- **Fortalecimiento Institucional y Reforma del Sector Público** – Trabajamos con los gobiernos para optimizar la eficiencia y la prestación de servicios.
+
+[Volver a Servicios](../services.qmd)
+</div>
+

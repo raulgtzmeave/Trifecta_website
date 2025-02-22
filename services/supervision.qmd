@@ -1,0 +1,27 @@
+---
+title: "Supervision, Inspection & Compliance"
+---
+
+<div class="lang-en">
+# **Ensuring Quality in Global Trade**
+At **Trifecta**, we specialize in quality assurance and supplier verification to mitigate risks in international trade.
+
+## **Our Services**
+- **Pre-Shipment Inspection (PEO)** – We inspect products before shipping to verify quality and compliance with contractual specifications.  
+- **Quality Control Inspections** – We conduct detailed product inspections to identify defects, ensuring industry-standard quality.  
+- **Factory Audits** – We assess supplier reliability, production processes, and compliance with international trade regulations.
+
+[Back to Services](../services.qmd)
+</div>
+
+<div class="lang-es" style="display: none;">
+# **Garantizando Calidad en el Comercio Global**
+En **Trifecta**, nos especializamos en la garantía de calidad y la verificación de proveedores para mitigar riesgos en el comercio internacional.
+
+## **Nuestros Servicios**
+- **Inspección Previa al Embarque (PEO)** – Inspeccionamos los productos antes del envío para verificar su calidad y cumplimiento con las especificaciones contractuales.  
+- **Inspecciones de Control de Calidad** – Realizamos inspecciones detalladas de productos para identificar defectos y garantizar estándares de calidad.  
+- **Auditorías de Fábrica** – Evaluamos la confiabilidad de los proveedores, los procesos de producción y el cumplimiento de normativas comerciales internacionales.
+
+[Volver a Servicios](../services.qmd)
+</div>

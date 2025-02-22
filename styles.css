@@ -1,1 +1,25 @@
 /* css styles */
+.navbar {
+  background-color: #0056b3; /* Azul oscuro */
+}
+
+.navbar a {
+  color: white !important; /* Hace que el texto del menú sea blanco */
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #003f7f; /* Azul más oscuro al pasar el mouse */
+}
+
+.navbar .dropdown-menu {
+  background-color: #0056b3; /* Asegura que el fondo del menú desplegable sea visible */
+}
+
+.navbar .dropdown-menu a {
+  color: white !important; /* Texto blanco en el menú desplegable */
+}
+
+.navbar .dropdown-menu a:hover {
+  background-color: #003f7f; /* Oscurece el fondo cuando el mouse pasa sobre una opción */
+}
