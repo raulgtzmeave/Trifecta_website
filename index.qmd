@@ -30,21 +30,3 @@ En **Trifecta**, ofrecemos servicios de primer nivel en tres áreas clave:
 [Explora Nuestros Servicios](services.qmd)
 :::
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    const langEnButton = document.getElementById("lang-en");
-    const langEsButton = document.getElementById("lang-es");
-
-    langEnButton.addEventListener("click", function(event) {
-        event.preventDefault();
-        document.querySelectorAll('.lang-en').forEach(el => el.style.display = 'block');
-        document.querySelectorAll('.lang-es').forEach(el => el.style.display = 'none');
-    });
-
-    langEsButton.addEventListener("click", function(event) {
-        event.preventDefault();
-        document.querySelectorAll('.lang-en').forEach(el => el.style.display = 'none');
-        document.querySelectorAll('.lang-es').forEach(el => el.style.display = 'block');
-    });
-});
-</script>
